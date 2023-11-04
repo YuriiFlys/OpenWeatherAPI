@@ -52,11 +52,11 @@ replay_pid*
 /.project
 /.checkstyle
 /reports/
-.idea/
 /out/
 /shelf/
 /resources/static/
 /resources/front/
+.idea/
 workspace.xml
 *.iml
 *.ucls
